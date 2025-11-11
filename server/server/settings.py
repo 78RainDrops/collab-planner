@@ -46,7 +46,7 @@ INSTALLED_APPS = [
     "core.accounts",
     "core.events",
     "core.realtime",
-    "core.tasks_app",
+    "core.tasks",
     "rest_framework",
     "rest_framework_simplejwt",
     "corsheaders",
